@@ -3,6 +3,8 @@
 
 💻 I'm majoring in Department of Marine Convergence Engineering & Software.
 
+Thanks!
+
 <!--
 **ahyns62/ahyns62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
