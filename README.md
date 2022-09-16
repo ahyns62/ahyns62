@@ -15,7 +15,8 @@
 - 2022~ 한양대 모두의 GAME 코딩대회 참가
 
 
-Thanks!
+
+😄 Thanks!
 
 <!--
 **ahyns62/ahyns62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
