@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Ahyeon Lee.
+
 🌱 I’m interested in Computer Science. I am challenging myself by being active in various fields.
 
 💻 I'm majoring in Department of Marine Convergence Engineering & Software.
