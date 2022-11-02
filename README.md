@@ -2,7 +2,6 @@
 
 🌱 I’m interested in Computer Science. I am challenging myself by being active in various fields.
 
-💻 I'm majoring in Department of Marine Convergence Engineering & Software.
 
 [![Ahyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyns62)](https://github.com/ahyns62/github-readme-stats)
 
