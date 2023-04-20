@@ -1,6 +1,5 @@
 ### Hi there, My name is Ahyeon Lee.👋
 
-🌱 I'm challenging myself by being active in various fields.
 🌱 I'm currently interested in Front-End.
 
 <div align=center>
