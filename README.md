@@ -1,6 +1,7 @@
 ### Hi there, My name is Ahyeon Lee.👋
 
-🌱 I’m interested in Computer Science. I am challenging myself by being active in various fields.
+🌱 I'm challenging myself by being active in various fields.
+🌱 I'm currently interested in Front-End.
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ahyeon%20Lee&fontSize=50" />	
