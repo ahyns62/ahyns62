@@ -55,13 +55,6 @@
 </div>
 <br>
 
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=ahyns62&show_icons=true">
-<br>
-<div align= "right"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahyns62&count_bg=%234E82DB&title_bg=%23555555&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-       </div> 
-
 
 <!--
 **ahyns62/ahyns62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
