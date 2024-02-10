@@ -2,9 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ahyeon%20Lee&fontSize=40" />	
 </div>
 
-<div align=center>
-안녕하세요, 프론트엔드 개발자를 꿈꾸는 이아현입니다!😄<br>
-	
+<div align=center>	
 </div>
 
 <div align=center>
