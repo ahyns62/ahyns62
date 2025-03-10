@@ -1,12 +1,12 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Ahyeon%20Lee&fontSize=30" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Ahyeon%20Lee&fontSize=20" />	
 </div>
 
 <div align=center>	
 </div>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h4>📚 Tech Stack 📚</h4>
 	<p>✨ Platforms & Languages Studying ✨</p>
 </div>
 <div align="center">
@@ -17,16 +17,15 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 </div>
 <br>
-<div align=center>
+<div align=center
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br>
